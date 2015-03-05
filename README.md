@@ -10,12 +10,14 @@ with the tools and configs to make my devironment nice and comfyyy
 
 Git for much win =)
 
-
+* Download Ruby and Ruby DevKit Mingw64 (http://rubyinstaller.org/downloads/)
+* Install Ruby
+* Extract Devkit into C:\Ruby{version}\devkit
+* Create a desktop shortcut to C:\Ruby{version}\devkit\msys.bat
 * Install Git: (http://msysgit.github.io/)
 * Install NodeJS: (http://nodejs.org/download/)
-* Install awesome npm packages globally:
-
-```bash
+* Install awesome npm packages globally using msys.bat console:
+```
 npm install -g yo grunt bower jslint jshint
 ```
 * Install GVim Editor: (http://www.vim.org/download.php#pc)
