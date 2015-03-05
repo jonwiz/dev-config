@@ -14,6 +14,10 @@ Git for much win =)
 * Install Ruby
 * Extract Devkit into C:\Ruby{version}\devkit
 * Create a desktop shortcut to C:\Ruby{version}\devkit\msys.bat
+* Update RubyGems:
+`gem update --system`
+* Get Sass gem if you want for better css coding:
+`gem install sass`
 * Install Git: (http://msysgit.github.io/)
 * Install NodeJS: (http://nodejs.org/download/)
 * Install awesome npm packages globally using msys.bat console:
