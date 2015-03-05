@@ -1,3 +1,4 @@
+
 php "C:\Program Files (x86)\Vim\vim74\gvim.exe"
 html "C:\Program Files (x86)\Vim\vim74\gvim.exe"
 phtml "C:\Program Files (x86)\Vim\vim74\gvim.exe"
