@@ -21,5 +21,7 @@ Git for much win =)
 npm install -g yo grunt bower jslint jshint
 ```
 * Install GVim Editor: (http://www.vim.org/download.php#pc)
+* Put vim/_vimrc file into C:\Program Files\Vim\
+* Put vimfiles directory contents in C:\Program Files\Vim\vimfiles\
 * Install Filezilla FTP Client: (https://filezilla-project.org/download.php?type=client)
 * Install WampServer for local Apache/PHP/MySQL for Windows: (http://www.wampserver.com/en/)
