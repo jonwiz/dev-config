@@ -1,6 +1,4 @@
 # Devironment
-Definition: Development Environment Setup
-
 
 Various Config files for development machine environment setup
 
