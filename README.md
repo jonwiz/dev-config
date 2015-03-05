@@ -1,4 +1,7 @@
-# dev-config
+# Devironment
+Definition: Development Environment Setup
+
+
 Various Config files for development machine environment setup
 
 Each time I setup a development environment on a new machine - I must hunt down all my
