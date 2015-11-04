@@ -21,7 +21,7 @@ Git for much win =)
 * Install awesome npm packages globally using msys.bat console:
 ```
 npm install -g yo grunt bower jslint jshint
-``
+```
 * install sublime text 
 * Install Filezilla FTP Client: (https://filezilla-project.org/download.php?type=client)
 * Install WampServer for local Apache/PHP/MySQL for Windows: (http://www.wampserver.com/en/)
