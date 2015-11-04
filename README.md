@@ -1,15 +1,5 @@
 # Devironment
 
-Setup my preemo dev environment!
-
-Each time I setup a development environment on a new machine - I must hunt down all my
-necessary tools, re-config my Vim editor and other software. :(
-
-To save this hassel I'm running this Git Repo to make it easy to deploy new machines
-easily with the devironment.
-
-Git for much win =)
-
 * Download Ruby and Ruby DevKit Mingw64 (http://rubyinstaller.org/downloads/)
 * Install Ruby
 * Extract Devkit into C:\Ruby{version}\devkit
